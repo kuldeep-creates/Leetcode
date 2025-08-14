@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kuldeep-creates/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kuldeep-creates/Leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/kuldeep-creates/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
