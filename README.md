@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/kuldeep-creates/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/kuldeep-creates/Leetcode/tree/master/3379-score-of-a-string) |
 | [3636-check-balanced-string](https://github.com/kuldeep-creates/Leetcode/tree/master/3636-check-balanced-string) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kuldeep-creates/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Array
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/kuldeep-creates/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/kuldeep-creates/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kuldeep-creates/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kuldeep-creates/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Math
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kuldeep-creates/Leetcode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/kuldeep-creates/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2831-number-of-beautiful-pairs](https://github.com/kuldeep-creates/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kuldeep-creates/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Geometry
 |  |
 | ------- |
