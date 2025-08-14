@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/kuldeep-creates/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/kuldeep-creates/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2619-categorize-box-according-to-criteria](https://github.com/kuldeep-creates/Leetcode/tree/master/2619-categorize-box-according-to-criteria) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
