@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/kuldeep-creates/Leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/kuldeep-creates/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/kuldeep-creates/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1205-defanging-an-ip-address](https://github.com/kuldeep-creates/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kuldeep-creates/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Array
 |  |
