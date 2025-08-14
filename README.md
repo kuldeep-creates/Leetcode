@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/kuldeep-creates/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/kuldeep-creates/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/kuldeep-creates/Leetcode/tree/master/2556-convert-the-temperature) |
+| [2571-find-the-pivot-integer](https://github.com/kuldeep-creates/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/kuldeep-creates/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Two Pointers
 |  |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kuldeep-creates/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2249-count-the-hidden-sequences](https://github.com/kuldeep-creates/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2571-find-the-pivot-integer](https://github.com/kuldeep-creates/Leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Queue
 |  |
 | ------- |
