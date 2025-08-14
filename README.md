@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kuldeep-creates/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/kuldeep-creates/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/kuldeep-creates/Leetcode/tree/master/3379-score-of-a-string) |
+| [3636-check-balanced-string](https://github.com/kuldeep-creates/Leetcode/tree/master/3636-check-balanced-string) |
 ## Array
 |  |
 | ------- |
