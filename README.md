@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kuldeep-creates/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/kuldeep-creates/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/kuldeep-creates/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kuldeep-creates/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Array
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/kuldeep-creates/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kuldeep-creates/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/kuldeep-creates/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Recursion
 |  |
 | ------- |
