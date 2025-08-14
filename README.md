@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/kuldeep-creates/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/kuldeep-creates/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/kuldeep-creates/Leetcode/tree/master/2556-convert-the-temperature) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/kuldeep-creates/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/kuldeep-creates/Leetcode/tree/master/0223-rectangle-area) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/kuldeep-creates/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Number Theory
 |  |
 | ------- |
