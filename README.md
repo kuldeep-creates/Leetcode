@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2619-categorize-box-according-to-criteria](https://github.com/kuldeep-creates/Leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/kuldeep-creates/Leetcode/tree/master/2630-alternating-digit-sum) |
+| [2748-calculate-delayed-arrival-time](https://github.com/kuldeep-creates/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 ## Two Pointers
 |  |
 | ------- |
