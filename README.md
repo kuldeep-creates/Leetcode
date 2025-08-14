@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/kuldeep-creates/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/kuldeep-creates/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/kuldeep-creates/Leetcode/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/kuldeep-creates/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Two Pointers
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/kuldeep-creates/Leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/kuldeep-creates/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/kuldeep-creates/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Brainteaser
 |  |
 | ------- |
