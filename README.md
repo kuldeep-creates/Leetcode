@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kuldeep-creates/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/kuldeep-creates/Leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/kuldeep-creates/Leetcode/tree/master/0242-valid-anagram) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kuldeep-creates/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Array
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kuldeep-creates/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kuldeep-creates/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kuldeep-creates/Leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/kuldeep-creates/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/kuldeep-creates/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kuldeep-creates/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kuldeep-creates/Leetcode/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
