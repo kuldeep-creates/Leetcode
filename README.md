@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/kuldeep-creates/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kuldeep-creates/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kuldeep-creates/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/kuldeep-creates/Leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kuldeep-creates/Leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/kuldeep-creates/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/kuldeep-creates/Leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kuldeep-creates/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/kuldeep-creates/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kuldeep-creates/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/kuldeep-creates/Leetcode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
