@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-number-of-beautiful-pairs](https://github.com/kuldeep-creates/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2857-total-distance-traveled](https://github.com/kuldeep-creates/Leetcode/tree/master/2857-total-distance-traveled) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/kuldeep-creates/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/kuldeep-creates/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
 | ------- |
