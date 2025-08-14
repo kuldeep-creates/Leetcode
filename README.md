@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/kuldeep-creates/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1524-string-matching-in-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kuldeep-creates/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/kuldeep-creates/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kuldeep-creates/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Array
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kuldeep-creates/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kuldeep-creates/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2032-largest-odd-number-in-string](https://github.com/kuldeep-creates/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kuldeep-creates/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kuldeep-creates/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/kuldeep-creates/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [2032-largest-odd-number-in-string](https://github.com/kuldeep-creates/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
