@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/kuldeep-creates/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/kuldeep-creates/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/kuldeep-creates/Leetcode/tree/master/3321-type-of-triangle) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/kuldeep-creates/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/kuldeep-creates/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kuldeep-creates/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2857-total-distance-traveled](https://github.com/kuldeep-creates/Leetcode/tree/master/2857-total-distance-traveled) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/kuldeep-creates/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Recursion
 |  |
 | ------- |
