@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kuldeep-creates/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kuldeep-creates/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1500-count-largest-group](https://github.com/kuldeep-creates/Leetcode/tree/master/1500-count-largest-group) |
+| [1610-xor-operation-in-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/kuldeep-creates/Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/kuldeep-creates/Leetcode/tree/master/0645-set-mismatch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kuldeep-creates/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
