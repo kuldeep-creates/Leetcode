@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kuldeep-creates/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/kuldeep-creates/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/kuldeep-creates/Leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/kuldeep-creates/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kuldeep-creates/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/kuldeep-creates/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/kuldeep-creates/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/kuldeep-creates/Leetcode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
