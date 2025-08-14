@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kuldeep-creates/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/kuldeep-creates/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/kuldeep-creates/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/kuldeep-creates/Leetcode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/kuldeep-creates/Leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/kuldeep-creates/Leetcode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Brainteaser
 |  |
 | ------- |
