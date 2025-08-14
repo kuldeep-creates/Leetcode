@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/kuldeep-creates/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kuldeep-creates/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1635-number-of-good-pairs](https://github.com/kuldeep-creates/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1064-smallest-integer-divisible-by-k](https://github.com/kuldeep-creates/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kuldeep-creates/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/kuldeep-creates/Leetcode/tree/master/1500-count-largest-group) |
+| [1635-number-of-good-pairs](https://github.com/kuldeep-creates/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kuldeep-creates/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1500-count-largest-group](https://github.com/kuldeep-creates/Leetcode/tree/master/1500-count-largest-group) |
 | [1610-xor-operation-in-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/kuldeep-creates/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kuldeep-creates/Leetcode/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/kuldeep-creates/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Geometry
 |  |
 | ------- |
