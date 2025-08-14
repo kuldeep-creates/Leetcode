@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kuldeep-creates/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/kuldeep-creates/Leetcode/tree/master/0645-set-mismatch) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/kuldeep-creates/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kuldeep-creates/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/kuldeep-creates/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kuldeep-creates/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/kuldeep-creates/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Trie
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/kuldeep-creates/Leetcode/tree/master/0645-set-mismatch) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/kuldeep-creates/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Backtracking
 |  |
 | ------- |
