@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/kuldeep-creates/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/kuldeep-creates/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/kuldeep-creates/Leetcode/tree/master/0014-longest-common-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kuldeep-creates/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kuldeep-creates/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kuldeep-creates/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/kuldeep-creates/Leetcode/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kuldeep-creates/Leetcode/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kuldeep-creates/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
