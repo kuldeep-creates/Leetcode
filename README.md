@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kuldeep-creates/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0414-third-maximum-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kuldeep-creates/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/kuldeep-creates/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/kuldeep-creates/Leetcode/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kuldeep-creates/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
