@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kuldeep-creates/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/kuldeep-creates/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kuldeep-creates/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kuldeep-creates/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/kuldeep-creates/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Hash Table
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-number-of-beautiful-pairs](https://github.com/kuldeep-creates/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/kuldeep-creates/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/kuldeep-creates/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kuldeep-creates/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/kuldeep-creates/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kuldeep-creates/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/kuldeep-creates/Leetcode/tree/master/3568-find-the-key-of-the-numbers) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kuldeep-creates/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
