@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kuldeep-creates/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/kuldeep-creates/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kuldeep-creates/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/kuldeep-creates/Leetcode/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/kuldeep-creates/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/kuldeep-creates/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/kuldeep-creates/Leetcode/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kuldeep-creates/Leetcode/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kuldeep-creates/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
