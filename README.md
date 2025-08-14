@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kuldeep-creates/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kuldeep-creates/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/kuldeep-creates/Leetcode/tree/master/0412-fizz-buzz) |
+| [0742-to-lower-case](https://github.com/kuldeep-creates/Leetcode/tree/master/0742-to-lower-case) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kuldeep-creates/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Array
 |  |
