@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kuldeep-creates/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/kuldeep-creates/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/kuldeep-creates/Leetcode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/kuldeep-creates/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kuldeep-creates/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/kuldeep-creates/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/kuldeep-creates/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/kuldeep-creates/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/kuldeep-creates/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/kuldeep-creates/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Brainteaser
 |  |
 | ------- |
