@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kuldeep-creates/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2249-count-the-hidden-sequences](https://github.com/kuldeep-creates/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kuldeep-creates/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2249-count-the-hidden-sequences](https://github.com/kuldeep-creates/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 ## Queue
 |  |
 | ------- |
