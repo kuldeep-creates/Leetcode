@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/kuldeep-creates/Leetcode/tree/master/3321-type-of-triangle) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/kuldeep-creates/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/kuldeep-creates/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3429-special-array-i](https://github.com/kuldeep-creates/Leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
