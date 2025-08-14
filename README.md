@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-find-the-key-of-the-numbers](https://github.com/kuldeep-creates/Leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kuldeep-creates/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/kuldeep-creates/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/kuldeep-creates/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/kuldeep-creates/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/kuldeep-creates/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/kuldeep-creates/Leetcode/tree/master/2507-number-of-common-factors) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/kuldeep-creates/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
