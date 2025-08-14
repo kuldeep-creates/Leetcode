@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/kuldeep-creates/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/kuldeep-creates/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3429-special-array-i](https://github.com/kuldeep-creates/Leetcode/tree/master/3429-special-array-i) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/kuldeep-creates/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-check-if-the-number-is-fascinating](https://github.com/kuldeep-creates/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2831-number-of-beautiful-pairs](https://github.com/kuldeep-creates/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/kuldeep-creates/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/kuldeep-creates/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Math
 |  |
 | ------- |
