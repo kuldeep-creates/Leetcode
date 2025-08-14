@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/kuldeep-creates/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/kuldeep-creates/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Hash Table
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kuldeep-creates/Leetcode/tree/master/0645-set-mismatch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kuldeep-creates/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/kuldeep-creates/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Binary Search
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/kuldeep-creates/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/kuldeep-creates/Leetcode/tree/master/0319-bulb-switcher) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/kuldeep-creates/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Game Theory
 |  |
 | ------- |
