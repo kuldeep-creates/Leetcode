@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kuldeep-creates/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/kuldeep-creates/Leetcode/tree/master/0645-set-mismatch) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/kuldeep-creates/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1137-height-checker](https://github.com/kuldeep-creates/Leetcode/tree/master/1137-height-checker) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/kuldeep-creates/Leetcode/tree/master/0645-set-mismatch) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/kuldeep-creates/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1137-height-checker](https://github.com/kuldeep-creates/Leetcode/tree/master/1137-height-checker) |
 ## Backtracking
 |  |
 | ------- |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/kuldeep-creates/Leetcode/tree/master/1013-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/kuldeep-creates/Leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
