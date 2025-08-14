@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kuldeep-creates/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/kuldeep-creates/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/kuldeep-creates/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/kuldeep-creates/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kuldeep-creates/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/kuldeep-creates/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/kuldeep-creates/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search
 |  |
 | ------- |
