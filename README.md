@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/kuldeep-creates/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kuldeep-creates/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2792-neighboring-bitwise-xor](https://github.com/kuldeep-creates/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2836-neither-minimum-nor-maximum](https://github.com/kuldeep-creates/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
 | ------- |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/kuldeep-creates/Leetcode/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kuldeep-creates/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kuldeep-creates/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2836-neither-minimum-nor-maximum](https://github.com/kuldeep-creates/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Backtracking
 |  |
 | ------- |
