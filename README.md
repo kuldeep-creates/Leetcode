@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/kuldeep-creates/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/kuldeep-creates/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/kuldeep-creates/Leetcode/tree/master/0223-rectangle-area) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kuldeep-creates/Leetcode/tree/master/0169-majority-element) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/kuldeep-creates/Leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
