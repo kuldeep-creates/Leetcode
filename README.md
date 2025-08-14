@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kuldeep-creates/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0645-set-mismatch](https://github.com/kuldeep-creates/Leetcode/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kuldeep-creates/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kuldeep-creates/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/kuldeep-creates/Leetcode/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/kuldeep-creates/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/kuldeep-creates/Leetcode/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/kuldeep-creates/Leetcode/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kuldeep-creates/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/kuldeep-creates/Leetcode/tree/master/0645-set-mismatch) |
 ## Backtracking
 |  |
 | ------- |
