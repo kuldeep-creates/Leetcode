@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/kuldeep-creates/Leetcode/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/kuldeep-creates/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kuldeep-creates/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/kuldeep-creates/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/kuldeep-creates/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3371-harshad-number](https://github.com/kuldeep-creates/Leetcode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kuldeep-creates/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/kuldeep-creates/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
 | ------- |
