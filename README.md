@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/kuldeep-creates/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/kuldeep-creates/Leetcode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/kuldeep-creates/Leetcode/tree/master/0492-construct-the-rectangle) |
+| [0507-perfect-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0507-perfect-number) |
 ## Two Pointers
 |  |
 | ------- |
