@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-calculate-delayed-arrival-time](https://github.com/kuldeep-creates/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/kuldeep-creates/Leetcode/tree/master/2752-sum-multiples) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/kuldeep-creates/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
+| [2857-total-distance-traveled](https://github.com/kuldeep-creates/Leetcode/tree/master/2857-total-distance-traveled) |
 ## Two Pointers
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/kuldeep-creates/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kuldeep-creates/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2857-total-distance-traveled](https://github.com/kuldeep-creates/Leetcode/tree/master/2857-total-distance-traveled) |
 ## Recursion
 |  |
 | ------- |
