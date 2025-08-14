@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kuldeep-creates/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kuldeep-creates/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/kuldeep-creates/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/kuldeep-creates/Leetcode/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kuldeep-creates/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/kuldeep-creates/Leetcode/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kuldeep-creates/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/kuldeep-creates/Leetcode/tree/master/0055-jump-game) |
 ## Monotonic Stack
 |  |
 | ------- |
