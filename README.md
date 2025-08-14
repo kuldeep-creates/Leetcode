@@ -36,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/kuldeep-creates/Leetcode/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/kuldeep-creates/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kuldeep-creates/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/kuldeep-creates/Leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kuldeep-creates/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kuldeep-creates/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/kuldeep-creates/Leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/kuldeep-creates/Leetcode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/kuldeep-creates/Leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/kuldeep-creates/Leetcode/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -136,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/kuldeep-creates/Leetcode/tree/master/0164-maximum-gap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kuldeep-creates/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kuldeep-creates/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
