@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/kuldeep-creates/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2831-number-of-beautiful-pairs](https://github.com/kuldeep-creates/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/kuldeep-creates/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/kuldeep-creates/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
 | ------- |
