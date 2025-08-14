@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kuldeep-creates/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kuldeep-creates/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kuldeep-creates/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3194-find-words-containing-character](https://github.com/kuldeep-creates/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Array
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-number-of-beautiful-pairs](https://github.com/kuldeep-creates/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/kuldeep-creates/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/kuldeep-creates/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3194-find-words-containing-character](https://github.com/kuldeep-creates/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
