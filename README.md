@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/kuldeep-creates/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kuldeep-creates/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Hash Table
 |  |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/kuldeep-creates/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2551-apply-operations-to-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/kuldeep-creates/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kuldeep-creates/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Recursion
 |  |
