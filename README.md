@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kuldeep-creates/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1635-number-of-good-pairs](https://github.com/kuldeep-creates/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/kuldeep-creates/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/kuldeep-creates/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kuldeep-creates/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/kuldeep-creates/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/kuldeep-creates/Leetcode/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/kuldeep-creates/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/kuldeep-creates/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/kuldeep-creates/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/kuldeep-creates/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kuldeep-creates/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/kuldeep-creates/Leetcode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/kuldeep-creates/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sorting
 |  |
 | ------- |
@@ -290,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kuldeep-creates/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/kuldeep-creates/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
