@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/kuldeep-creates/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/kuldeep-creates/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2238-a-number-after-a-double-reversal](https://github.com/kuldeep-creates/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 ## Two Pointers
 |  |
 | ------- |
