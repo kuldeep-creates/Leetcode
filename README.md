@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/kuldeep-creates/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kuldeep-creates/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/kuldeep-creates/Leetcode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/kuldeep-creates/Leetcode/tree/master/0441-arranging-coins) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/kuldeep-creates/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/kuldeep-creates/Leetcode/tree/master/0441-arranging-coins) |
 ## Dynamic Programming
 |  |
 | ------- |
