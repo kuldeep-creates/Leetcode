@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/kuldeep-creates/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kuldeep-creates/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2792-neighboring-bitwise-xor](https://github.com/kuldeep-creates/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kuldeep-creates/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kuldeep-creates/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/kuldeep-creates/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
