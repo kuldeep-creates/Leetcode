@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kuldeep-creates/Leetcode/tree/master/0645-set-mismatch) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/kuldeep-creates/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1137-height-checker](https://github.com/kuldeep-creates/Leetcode/tree/master/1137-height-checker) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/kuldeep-creates/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/kuldeep-creates/Leetcode/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/kuldeep-creates/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kuldeep-creates/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/kuldeep-creates/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
