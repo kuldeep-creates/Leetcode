@@ -11,6 +11,9 @@ public:
                     count++;
                     postindex++;
                 } 
+                else {
+                    count++;
+                }
             } 
             else {
                 num = nums[i];
