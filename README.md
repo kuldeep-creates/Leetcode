@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/kuldeep-creates/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/kuldeep-creates/Leetcode/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/kuldeep-creates/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kuldeep-creates/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Two Pointers
 |  |
 | ------- |
