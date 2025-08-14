@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/kuldeep-creates/Leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/kuldeep-creates/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/kuldeep-creates/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/kuldeep-creates/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/kuldeep-creates/Leetcode/tree/master/1013-fibonacci-number) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/kuldeep-creates/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
