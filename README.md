@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/kuldeep-creates/Leetcode/tree/master/3379-score-of-a-string) |
 | [3636-check-balanced-string](https://github.com/kuldeep-creates/Leetcode/tree/master/3636-check-balanced-string) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kuldeep-creates/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3893-generate-tag-for-video-caption](https://github.com/kuldeep-creates/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Array
 |  |
 | ------- |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2857-total-distance-traveled](https://github.com/kuldeep-creates/Leetcode/tree/master/2857-total-distance-traveled) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/kuldeep-creates/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kuldeep-creates/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3893-generate-tag-for-video-caption](https://github.com/kuldeep-creates/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Recursion
 |  |
 | ------- |
