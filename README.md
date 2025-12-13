@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kuldeep-creates/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/kuldeep-creates/Leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0224-basic-calculator](https://github.com/kuldeep-creates/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/kuldeep-creates/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kuldeep-creates/Leetcode/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kuldeep-creates/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kuldeep-creates/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/kuldeep-creates/Leetcode/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/kuldeep-creates/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/kuldeep-creates/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kuldeep-creates/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/kuldeep-creates/Leetcode/tree/master/0263-ugly-number) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kuldeep-creates/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kuldeep-creates/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0224-basic-calculator](https://github.com/kuldeep-creates/Leetcode/tree/master/0224-basic-calculator) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kuldeep-creates/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## String Matching
 |  |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kuldeep-creates/Leetcode/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/kuldeep-creates/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/kuldeep-creates/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kuldeep-creates/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kuldeep-creates/Leetcode/tree/master/0342-power-of-four) |
