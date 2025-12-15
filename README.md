@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kuldeep-creates/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kuldeep-creates/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2249-count-the-hidden-sequences](https://github.com/kuldeep-creates/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kuldeep-creates/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kuldeep-creates/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/kuldeep-creates/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/kuldeep-creates/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kuldeep-creates/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kuldeep-creates/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/kuldeep-creates/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2238-a-number-after-a-double-reversal](https://github.com/kuldeep-creates/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kuldeep-creates/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kuldeep-creates/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/kuldeep-creates/Leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/kuldeep-creates/Leetcode/tree/master/1013-fibonacci-number) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kuldeep-creates/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/kuldeep-creates/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Monotonic Stack
 |  |
