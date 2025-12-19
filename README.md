@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kuldeep-creates/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kuldeep-creates/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0636-exclusive-time-of-functions](https://github.com/kuldeep-creates/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/kuldeep-creates/Leetcode/tree/master/0645-set-mismatch) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/kuldeep-creates/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1137-height-checker](https://github.com/kuldeep-creates/Leetcode/tree/master/1137-height-checker) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kuldeep-creates/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kuldeep-creates/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/kuldeep-creates/Leetcode/tree/master/0224-basic-calculator) |
+| [0636-exclusive-time-of-functions](https://github.com/kuldeep-creates/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kuldeep-creates/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kuldeep-creates/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## String Matching
