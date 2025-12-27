@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/kuldeep-creates/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kuldeep-creates/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/kuldeep-creates/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kuldeep-creates/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1524-string-matching-in-an-array](https://github.com/kuldeep-creates/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kuldeep-creates/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1635-number-of-good-pairs](https://github.com/kuldeep-creates/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/kuldeep-creates/Leetcode/tree/master/0224-basic-calculator) |
 | [0636-exclusive-time-of-functions](https://github.com/kuldeep-creates/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kuldeep-creates/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kuldeep-creates/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kuldeep-creates/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## String Matching
 |  |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kuldeep-creates/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kuldeep-creates/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kuldeep-creates/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
